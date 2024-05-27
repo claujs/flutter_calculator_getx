@@ -17,7 +17,7 @@ alt="Flutter Calculator App Preview" width=50% height=50%>
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/flutter_getx_calculator.git
+    git clone https://github.com/claujs/flutter_calculator_getx.git
     ```
 
 2. **Navigate to the project directory:**
