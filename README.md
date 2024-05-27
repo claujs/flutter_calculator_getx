@@ -8,10 +8,10 @@ This project demonstrates a simple calculator app built using Flutter and GetX.
 - Clear button to reset the calculator.
 - Uses GetX for state management, making the code more organized and efficient.
 
-<img src="https://github.com/claujs/weather_project_flutter/blob/main/.github/images/image1.png?raw=true" 
-alt="Flutter Weather App Preview" width=50% height=50%>
-<img src="https://github.com/claujs/weather_project_flutter/blob/main/.github/images/image2.png?raw=true" 
-alt="Flutter Weather App Preview" width=50% height=50%>
+<img src="https://github.com/claujs/flutter_calculator_getx/blob/main/.github/images/image1.png?raw=true" 
+alt="Flutter Calculator App Preview" width=50% height=50%>
+<img src="https://github.com/claujs/flutter_calculator_getx/blob/main/.github/images/image2.png?raw=true" 
+alt="Flutter Calculator App Preview" width=50% height=50%>
 
 ## Getting Started
 
